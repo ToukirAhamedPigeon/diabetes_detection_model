@@ -136,5 +136,8 @@ diabetes dataset. Random Forest and Logistic Regression generally
 perform better, while KNN depends heavily on the choice of `k`. The
 Decision Tree provides interpretability but may risk overfitting.
 
-Colab Link: https://colab.research.google.com/drive/12l1glyyUYVSP5A-nhHIk5OHRsnIcZpZb?usp=sharing /n
+Colab Link: https://colab.research.google.com/drive/12l1glyyUYVSP5A-nhHIk5OHRsnIcZpZb?usp=sharing 
+
+
+
 Github Link: https://github.com/ToukirAhamedPigeon/diabetes_detection_model
